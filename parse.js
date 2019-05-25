@@ -1,5 +1,3 @@
-//JSON is a simple data exchange format between JavaScript and the server.
-//Browser is a JavaScript object SERVER Can be J.S., Python, PHP, ASP.NET
 
 
 
