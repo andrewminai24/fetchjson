@@ -1,0 +1,19 @@
+{
+    "p1":{
+        "name": "andrew",
+        "age": "16",
+        "company": "Google"
+    },
+     "p2":{
+        "name": "Jackson",
+        "age": 24,
+        "company": "Apple"
+
+    },
+    "p3":{
+        "name": "kushav",
+        "age": 20,
+        "company": "Mircosoft"
+
+    }   
+}
